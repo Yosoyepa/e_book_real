@@ -1,6 +1,6 @@
 # e_book_real
 
-A new Flutter project.
+an exchange and shop book app.
 
 ## Getting Started
 
